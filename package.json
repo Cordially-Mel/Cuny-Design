@@ -1,0 +1,14 @@
+Design News
+
+CUNY Expands Digital Skills Curriculum and Creates Student Pipeline for Tech Jobs
+October 28, 2019
+The City University of New York has significantly expanded its digital skills curriculum as part of a broad-based effort to produce a steady pipeline of diverse, adaptable, critical thinkers who can thrive in a workplace environment that is increasingly reliant on advanced digital technologies across most sectors of the economy. Another aim of this initiative is to encourage traditionally underrepresented groups to take up tech-focused areas of study.
+Read More
+Copyright 2023 The City University of New York{
+  "scripts": {
+    "start": "servor --reload"
+  },
+  "dependencies": {
+    "servor": "^4.0.2"
+  }
+}
